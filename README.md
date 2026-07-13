@@ -54,7 +54,7 @@ ps aux
 - Committed the changes.
 - Pushed the project to GitHub.
 
-📁 Project Structure
+ Project Structure
 
 aws-devops-assignment/
 index.html
